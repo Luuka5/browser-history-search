@@ -1,0 +1,17 @@
+#github-rag-chat {
+    transition: transform 0.2s ease;
+}
+
+#github-rag-chat:active {
+    cursor: move;
+}
+
+#github-rag-chat input:focus {
+    outline: none;
+    border-color: #0366d6;
+    box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.3);
+}
+
+#github-rag-chat button:hover {
+    background: #2c974b;
+}
